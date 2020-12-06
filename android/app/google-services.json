@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098529183539",
+    "firebase_url": "https://stockdemo-5cb5b.firebaseio.com",
+    "project_id": "stockdemo-5cb5b",
+    "storage_bucket": "stockdemo-5cb5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098529183539:android:ce1969c56a765648071046",
+        "android_client_info": {
+          "package_name": "com.coolpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098529183539-ah5u81pbct76pdd36su88d1f6isbjh4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coolpro",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1098529183539-s9p4a6ta2gdnlpj9t7l8dn602eats5i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBht6Ia2JOJ7SWLLyMKdKB8k1Ys6eO6vqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098529183539-s9p4a6ta2gdnlpj9t7l8dn602eats5i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
